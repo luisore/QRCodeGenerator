@@ -1,6 +1,6 @@
 import qrcode
 
-url = "https://youtube.com"
+url = "https://github.com/luisore/"
 
 qr = qrcode.QRCode(
     version=1,
