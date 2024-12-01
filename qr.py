@@ -1,6 +1,5 @@
 import qrcode
 
-
 url = "https://youtube.com"
 
 qr = qrcode.QRCode(
